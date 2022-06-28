@@ -1,0 +1,17 @@
+Python Problem 5 | Python Tutorials For Absolute Beginners In Hindi #111
+The task you have to perform is “Palindromify the List.” This task consists of a total of 10 points to evaluate your performance.
+
+The task is very similar to the previous one, i.e., Tutorial #109 ( Pyhton Problem 4)
+
+Problem Statement:-
+You are given a list that contains some numbers. You have to print a list of the next palindromes only if the number is greater than 10; otherwise, you will print that number.
+
+
+ 
+Input:
+[1, 6, 87, 43]
+
+Output:
+[1, 6, 88, 44]
+
+The solution is discussed in tutorial#112. Stay up to date with codewithharry for amazing tutorials and tasks
